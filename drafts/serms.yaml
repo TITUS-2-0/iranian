@@ -5345,8 +5345,7 @@
             - lb[type=manuscript]: 2
             - "[     20-22     ](...)'y 'txw"
             - lb[type=manuscript]: 3
-            - '[     24-26     ]wyxyh'
-            - note:
+            - '[     24-26     ]wyxyh*'
             - lb[type=manuscript]: 4
             - '[     25-27     ](..)[..]py'
     - part[n=133]:
@@ -5863,9 +5862,7 @@
         - mynyw(?) z-'wr kw δ'ms'r
     - part[n=158,lg=sog-Latn]:
       - p:
-        - w't'
-        - note:
-        - βγ' rty
+        - w't'* βγ' rty
         - lb[type=manuscript]: 6
         - w't' xyδyw * kt wyny ZKwyh ctβ'r βcnpδy
         - lb[type=manuscript]: 7
