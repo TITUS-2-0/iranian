@@ -5470,7 +5470,8 @@
             - lb[type=manuscript,n=10]: '[     24-26     ] pdyng'
             - lb[type=manuscript,n=11]: '[     26-28     ]՚wš'
             - lb[type=manuscript,n=12]: '[     23-25     ](.c drxt)'
-            - lb[type=manuscript,n=13]: '[     23-25     ](.)hn'
+            - lb[type=manuscript,n=13]:
+            - '[     23-25     ](.)hn'
             - note:
               - foreign[lg=deu-Latn]: Kaum
               - '](՚)n.'
@@ -5486,30 +5487,35 @@
         - p]d ՚dwr ՚bystn bwy(d)
         - lb[type=manuscript,n=20]: '[՚wd zhg(?) z՚](y)hyd u pd w՚d prwryhyd u pd'
         - lb[type=manuscript,n=21]: '[՚rd՚w pr՚whr   4-5   ](r)yhyd ՚wd zywyd **     **'
-        - lb[type=manuscript,n=22]: '[     9-11    ]՚n ՚՚wn d՚nyd kw ՙymyš՚n'
+        - lb[type=manuscript,n=22]:
+        - '[     9-11    ]՚n ՚՚wn d՚nyd kw ՙymyš՚n'
         - foreign[lg=deu-Latn]: (Lücke)
     - part[n=142]:
       - pb[type=recto]: v?
       - p:
         - lb[type=manuscript,n=1]: ՚[     28-30     ]
         - lb[type=manuscript,n=2]: (՚)[     28-30     ]
-        - lb[type=manuscript,n=3]: (j)[
+        - lb[type=manuscript,n=3]:
+        - (j)[
         - note:
           - foreign[lg=deu-Latn]: Oder
           - š.
         - 28-30     ]
-        - lb[type=manuscript,n=4]: (p)[
+        - lb[type=manuscript,n=4]:
+        - (p)[
         - note:
           - foreign[lg=deu-Latn]: Oder
           - s.
         - 28-30     ]
-        - lb[type=manuscript,n=5]: (p)[
+        - lb[type=manuscript,n=5]:
+        - (p)[
         - note:
           - foreign[lg=deu-Latn]: Oder
           - s.
         - 28-30     ]
         - lb[type=manuscript,n=6]: (m)[     28-30     ]
-        - lb[type=manuscript,n=7]: (h)[
+        - lb[type=manuscript,n=7]:
+        - (h)[
         - note:
           - foreign[lg=deu-Latn]: Oder
           - c.
@@ -5518,7 +5524,8 @@
         - lb[type=manuscript,n=9]: ՚(w)[      27-29      ]
         - lb[type=manuscript,n=10]: ՙ(y)[     27-29     ]
         - lb[type=manuscript,n=11]: pdy(ng)[     24-26     ]
-        - lb[type=manuscript,n=12]: hy(nd)[
+        - lb[type=manuscript,n=12]:
+        - hy(nd)[
         - note:
           - foreign[lg=deu-Latn]: Die Verbindungslinie des
           - n
@@ -5527,7 +5534,8 @@
           - foreign[lg=deu-Latn]: scheint zu fehlen.
         - 25-27      ]
         - lb[type=manuscript,n=13]: h՚n z[      25-27      ]
-        - lb[type=manuscript,n=14]: ՚wd ՚(c)[
+        - lb[type=manuscript,n=14]:
+        - ՚wd ՚(c)[
         - note:
           - foreign[lg=deu-Latn]: Oder
           - ՚(h)[?
@@ -5538,7 +5546,8 @@
         - lb[type=manuscript,n=18]: (՚)wd hrw dwn՚n (.)[      17-19      ]
         - lb[type=manuscript,n=19]: ՚wd ՚wb՚(y)d **      [**]
         - lb[type=manuscript,n=20]: hynd **      [**]
-        - lb[type=manuscript,n=21]: ՚wd ՚br ՙyn (b)[
+        - lb[type=manuscript,n=21]:
+        - ՚wd ՚br ՙyn (b)[
         - note:
           - foreign[lg=deu-Latn]: Kaum
           - (s).
