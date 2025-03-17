@@ -1,17 +1,18 @@
 - body:
   - fragment[n=H]:
     - head[lg=deu-Latn]: Die Überschriften des parthischen und des soghdischen Textes
+    - manuscript[n=1]:
+      - manuscript part[n=1]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=1,lg=pal-Latn-x-transliterated]:
-      - manuscript[n=1]:
-        - manuscript part[n=1]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]
-            - gy՚n
-            - note:
-              - foreign[lg=deu-Latn]: Var.
-              - foreign[lg=pal-Latn-x-transliterated]: gy՚՚n.
-            - wyfr՚s
+      - p:
+        - gy՚n
+        - note:
+          - foreign[lg=deu-Latn]: Var.
+          - foreign[lg=pal-Latn-x-transliterated]: gy՚՚n.
+        - wyfr՚s
       - manuscript[n=M_4526_+_M_7265]:
         - manuscript part[n=d]:
           - p:
@@ -105,16 +106,17 @@
                 in roter Schrift.
   - fragment[n=P1]:
     - head[lg=deu-Latn]: Parthischer Text
+    - manuscript[n=5]:
+      - manuscript part[n=5]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=5,lg=pal-Latn-x-transliterated]:
-      - manuscript[n=5]:
-        - manuscript part[n=5]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: '[nxwyn šhrd՚ryft bdyg ](j)yry(fṯ)[ hrdyg bwxtgyft
-                cwhrwm hwn]sndyfṯ [pnjwm ՚brng šhwm r՚šty](f)ṯ * [hftwm hmwdyndyft
-                hštw]m [drgmnyft nhwm rzwryf](t d)[s]wm [qyrbgyft ՙywndsw](m hw)՚bs՚gyfṯ
-                [՚wd dw՚dyswm rwšn * ](h)njft rw(c) [      13-15      ՙs](p)wr * pd
-                dw՚(d)[ys      14-16      p]whr šy՚qṯ՚[ṯ * ]'
+      - p: '[nxwyn šhrd՚ryft bdyg ](j)yry(fṯ)[ hrdyg bwxtgyft cwhrwm hwn]sndyfṯ [pnjwm
+          ՚brng šhwm r՚šty](f)ṯ * [hftwm hmwdyndyft hštw]m [drgmnyft nhwm rzwryf](t
+          d)[s]wm [qyrbgyft ՙywndsw](m hw)՚bs՚gyfṯ [՚wd dw՚dyswm rwšn * ](h)njft rw(c)
+          [      13-15      ՙs](p)wr * pd dw՚(d)[ys      14-16      p]whr šy՚qṯ՚[ṯ
+          * ]'
       - manuscript[n=M_259c_+_M_453c]:
         - manuscript part[n=a]:
           - p:
@@ -264,44 +266,45 @@
             - hrwyn ** cšm (b)[     13-15     ]
             - lb[type=manuscript,n=14]
             - kyrbg pd hrw(y)[n     12-14     ]
-  - fragment[n=P2,lg=pal-Latn-x-transliterated]:
-    - part[n=8]:
-      - manuscript[n=8]:
-        - manuscript part[n=8]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]
-            - '[      22-24      ](b)h(r)'
-            - note:
-              - foreign[lg=pal-Latn-x-transliterated]: bhr
-              - foreign[lg=deu-Latn]: oder erg.
-              - foreign[lg=pal-Latn-x-transliterated]: dybhr
-              - foreign[lg=deu-Latn]: '"Zorn",'
-              - foreign[lg=pal-Latn-x-transliterated]: ywbhr
-              - foreign[lg=deu-Latn]: '"Leid"?'
-            - '[      23-25      ](.)wyn * [      23-25      ](.) ՚br [      25-27      ]nd
-              [      16-18      ](k)w mw(rd'
-            - note:
-              - foreign[lg=pal-Latn-x-transliterated]: mw(rd)[
-              - foreign[lg=deu-Latn]: oder
-              - foreign[lg=pal-Latn-x-transliterated]: mw(dr)[.
-            - n)y [      12-14      mr](dw)hm pwrs՚ẖ [      14-16      ](rg)[   ?   ](s)t
-            - note:
-              - foreign[lg=deu-Latn]: Ende eines Wortes, das zwischen der dritten
-                  und der vierten Zeile des Fragments nachgetragen worden ist, doch
-                  so, daß es dicht unter die dritte Zeile geschrieben wurde (vgl.
-                  Anm. III. 21). Ich vermute daher, daß die nachgetragenen Buchstaben
-                  zu der darüberlaufenden Zeile gehören und auf
-              - foreign[lg=pal-Latn-x-transliterated]: '](r)g'
-              - foreign[lg=deu-Latn]: folgen.
-            - ՚wš (d)[yd      14-16 ՙ](s)pyd * ՚g՚(m)[      11-13      ](.)[   4-5   ](f)ryẖ
-              ՚wd [      11-13        ]* c[y] (k)d՚m ՙyr * c(y)[      10-12      wy](nyn)d
-              * nxwšt wynynd  [      11-13      ](.)d * ՚wd ՚՚wdyn
-            - note:
-              - foreign[lg=deu-Latn]: Geschrieben
-              - foreign[lg=pal-Latn-x-transliterated]: ՚՚w dyn.
-            - pd [      10-12      ](.y՚)d [   2-3   ](d) gy՚n pd [      11-13      ](.
-              *) kw bwd ՚hynd [      10-12      ՙy](w) ՚c byd ywd (bwd)
+  - fragment[n=P2]:
+    - manuscript[n=8]:
+      - manuscript part[n=8]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
+    - part[n=8,lg=pal-Latn-x-transliterated]:
+      - p:
+        - '[      22-24      ](b)h(r)'
+        - note:
+          - foreign[lg=pal-Latn-x-transliterated]: bhr
+          - foreign[lg=deu-Latn]: oder erg.
+          - foreign[lg=pal-Latn-x-transliterated]: dybhr
+          - foreign[lg=deu-Latn]: '"Zorn",'
+          - foreign[lg=pal-Latn-x-transliterated]: ywbhr
+          - foreign[lg=deu-Latn]: '"Leid"?'
+        - '[      23-25      ](.)wyn * [      23-25      ](.) ՚br [      25-27      ]nd
+          [      16-18      ](k)w mw(rd'
+        - note:
+          - foreign[lg=pal-Latn-x-transliterated]: mw(rd)[
+          - foreign[lg=deu-Latn]: oder
+          - foreign[lg=pal-Latn-x-transliterated]: mw(dr)[.
+        - n)y [      12-14      mr](dw)hm pwrs՚ẖ [      14-16      ](rg)[   ?   ](s)t
+        - note:
+          - foreign[lg=deu-Latn]: Ende eines Wortes, das zwischen der dritten und
+              der vierten Zeile des Fragments nachgetragen worden ist, doch so, daß
+              es dicht unter die dritte Zeile geschrieben wurde (vgl. Anm. III. 21).
+              Ich vermute daher, daß die nachgetragenen Buchstaben zu der darüberlaufenden
+              Zeile gehören und auf
+          - foreign[lg=pal-Latn-x-transliterated]: '](r)g'
+          - foreign[lg=deu-Latn]: folgen.
+        - ՚wš (d)[yd      14-16 ՙ](s)pyd * ՚g՚(m)[      11-13      ](.)[   4-5   ](f)ryẖ
+          ՚wd [      11-13        ]* c[y] (k)d՚m ՙyr * c(y)[      10-12      wy](nyn)d
+          * nxwšt wynynd  [      11-13      ](.)d * ՚wd ՚՚wdyn
+        - note:
+          - foreign[lg=deu-Latn]: Geschrieben
+          - foreign[lg=pal-Latn-x-transliterated]: ՚՚w dyn.
+        - pd [      10-12      ](.y՚)d [   2-3   ](d) gy՚n pd [      11-13      ](.
+          *) kw bwd ՚hynd [      10-12      ՙy](w) ՚c byd ywd (bwd)
       - manuscript[n=M_259b_+_M_453b]:
         - manuscript part[n=b]:
           - p:
@@ -379,7 +382,7 @@
             - '*) kw bwd ՚hynd'
             - lb[type=manuscript,n=15]
             - '[     10-12     ՙy](w) ՚c byd ywd (bw)d'
-    - part[n=9]:
+    - part[n=9,lg=pal-Latn-x-transliterated]:
       - p:
         - (k)[rd]՚r (.)[      19-21      ] bw(.)[      18-20      ] qr(wg)[      17-19      ]
           š(h)[      22-24      ] qrw(g) ՚wd (.)[
@@ -487,12 +490,13 @@
             - lb[type=manuscript,n=15]
             - cw՚gwn (b)wd ՚[      9-11     ]
   - fragment[n=P3]:
+    - manuscript[n=10]:
+      - manuscript part[n=10]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=10]:
-      - manuscript[n=10,lg=pal-Latn-x-transliterated]:
-        - manuscript part[n=10]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: ']qmb qmb bwyyd'
+      - p[lg=pal-Latn-x-transliterated]: ']qmb qmb bwyyd'
       - manuscript[n=M_259c,lg=pal-Latn-x-transliterated]:
         - manuscript part[n=c]:
           - p:
@@ -3308,13 +3312,13 @@
         - manuscript part[n=u]:
           - p: ՚n s[     12-14     ]
   - fragment[n=P4]:
+    - manuscript[n=70]:
+      - manuscript part[n=70]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=70,lg=pal-Latn-x-transliterated]:
-      - manuscript[n=70]:
-        - manuscript part[n=70]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: '] ՚ndrz d՚ryd * (ky p)[d] p՚dyšnw(hr ՚wd) mwjd
-                ՚c bg pdgyr(w)[yd *'
+      - p: '] ՚ndrz d՚ryd * (ky p)[d] p՚dyšnw(hr ՚wd) mwjd ՚c bg pdgyr(w)[yd *'
       - manuscript[n=M_5561_+_M_5562]:
         - manuscript part[n=w]:
           - p:
@@ -4097,13 +4101,14 @@
             - lb[type=manuscript,n=7]
             - '[     13-17 ](.)hm (** ky)'
   - fragment[n=P5]:
+    - manuscript[n=85]:
+      - manuscript part[n=85]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=85]:
-      - manuscript[n=85,lg=pal-Latn-x-transliterated]:
-        - manuscript part[n=85]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: '](.)[      16-20      ]yd * cw՚γwn [      10-12      ]ny
-                wyndyyd [      12-14      ](.....)'
+      - p[lg=pal-Latn-x-transliterated]: '](.)[      16-20      ]yd * cw՚γwn [      10-12      ]ny
+          wyndyyd [      12-14      ](.....)'
       - manuscript[n=M_1666,lg=pal-Latn-x-transliterated]:
         - manuscript part[n=aa]:
           - p:
@@ -4219,14 +4224,14 @@
             - lb[type=manuscript,n=6]
             - (s)y՚ryn * cšm gwš u (՚)[     8-12     ]
   - fragment[n=P6]:
+    - manuscript[n=89]:
+      - manuscript part[n=89]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=89]:
-      - manuscript[n=89,lg=pal-Latn-x-transliterated]:
-        - manuscript part[n=89]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: '](.)՚՚z * (.)[           ](.)[   6-8   ](՚)syd
-                [           ] ՚c՚r * cy [   2-3   ](.s.) [     ] ng՚rgr * k(y p)nj
-                z(ng)[՚n'
+      - p[lg=pal-Latn-x-transliterated]: '](.)՚՚z * (.)[           ](.)[   6-8   ](՚)syd
+          [           ] ՚c՚r * cy [   2-3   ](.s.) [     ] ng՚rgr * k(y p)nj z(ng)[՚n'
       - manuscript[n=M_2014,lg=pal-Latn-x-transliterated]:
         - manuscript part[n=ac]:
           - p:
@@ -4290,22 +4295,23 @@
             - '[     ](w)š k(՚)[ 2-4 d](h)yd(?) *   *'
             - lb[type=manuscript,n=6]
             - '[ ](.՚)՚z(..)[     ]'
-  - fragment[n=P7,lg=pal-Latn-x-transliterated]:
-    - part[n=93]:
-      - manuscript[n=93]:
-        - manuscript part[n=93]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]
-            - '](.)[           ](..g)[           ](..)ng'
-            - note:
-              - foreign[lg=deu-Latn]: Vielleicht
-              - foreign[lg=pal-Latn-x-transliterated]: '](.z)ng,'
-              - foreign[lg=deu-Latn]: vgl. Anm. III. 177.
-            - '[           ]՚gwn'
-            - note[lg=pal-Latn-x-transliterated]: ՚w՚gwn, cw՚gwn?
-            - '[           ](.g) ՙyr՚n [           ](p)՚hgr [           ](ẖ)[ n](g՚)rgr
-              [           ](..)'
+  - fragment[n=P7]:
+    - manuscript[n=93]:
+      - manuscript part[n=93]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
+    - part[n=93,lg=pal-Latn-x-transliterated]:
+      - p:
+        - '](.)[           ](..g)[           ](..)ng'
+        - note:
+          - foreign[lg=deu-Latn]: Vielleicht
+          - foreign[lg=pal-Latn-x-transliterated]: '](.z)ng,'
+          - foreign[lg=deu-Latn]: vgl. Anm. III. 177.
+        - '[           ]՚gwn'
+        - note[lg=pal-Latn-x-transliterated]: ՚w՚gwn, cw՚gwn?
+        - '[           ](.g) ՙyr՚n [           ](p)՚hgr [           ](ẖ)[ n](g՚)rgr
+          [           ](..)'
       - manuscript[n=M_3142]:
         - manuscript part[n=ad]:
           - p:
@@ -4336,7 +4342,7 @@
             - '[     n](g՚)rgr'
             - lb[type=manuscript,n=9]
             - '[     ](..)'
-    - part[n=94]:
+    - part[n=94,lg=pal-Latn-x-transliterated]:
       - p:
         - (.)[           ] ՚(.)[           ] ՙy(z)[
         - note:
@@ -4380,15 +4386,16 @@
             - b(.)[     ]
             - lb[type=manuscript,n=9]
             - (.)[     ]
-  - fragment[n=P8,lg=pal-Latn-x-transliterated]:
-    - part[n=95]:
-      - manuscript[n=95]:
-        - manuscript part[n=95]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: '](.g.)[   1-2   ](՚wd)[ ](z) * byc pš (.)[           ](.)
-                bwd * c(w)՚(gwn.)[           ]šhr ՚st * kd[ ](m)ynd ՚wd frhyd (.)[           ]՚z
-                ky pd ՙ(ym .)[           ](.)՚z * ՚w[d           ](.)՚n ՚(b)['
+  - fragment[n=P8]:
+    - manuscript[n=95]:
+      - manuscript part[n=95]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
+    - part[n=95,lg=pal-Latn-x-transliterated]:
+      - p: '](.g.)[   1-2   ](՚wd)[ ](z) * byc pš (.)[           ](.) bwd * c(w)՚(gwn.)[           ]šhr
+          ՚st * kd[ ](m)ynd ՚wd frhyd (.)[           ]՚z ky pd ՙ(ym .)[           ](.)՚z
+          * ՚w[d           ](.)՚n ՚(b)['
       - manuscript[n=M_5531]:
         - manuscript part[n=ae]:
           - p:
@@ -4420,7 +4427,7 @@
             - '[     ](.)՚n ՚(b)[     ]'
             - lb[type=manuscript,n=9]
             - '[     ](.)[   ]'
-    - part[n=96]:
+    - part[n=96,lg=pal-Latn-x-transliterated]:
       - p:
         - '](b)՚(w)g ՚(.)[   4-6   z]m[y](g) [      9-13      ](cw)՚gwn (wy)t՚(byd)
           ՚wd [      8-10      cw](՚g)[wn ](m)՚z(m)n hsym(y)[n      9-13      ](.)
@@ -4532,7 +4539,7 @@
             - ']'
             - lb[type=manuscript,n=8]
             - '[   ](q) ՙs(p)[rhmg՚n         ]'
-    - part[n=97]:
+    - part[n=97,lg=pal-Latn-x-transliterated]:
       - p:
         - '](... *)[      15-17      ](.)[. m՚](sy՚g)՚n * [   6-8   ](.) d(rxt՚)n
           * [՚nd](rw՚z'
@@ -4577,7 +4584,7 @@
             - '[ 4-6     ](h)wcyhryf(t .)[     6-8     ]'
             - lb[type=manuscript,n=11]
             - '[     5-7     ](.yg) ՚[     8 -10     ]'
-    - part[n=98]:
+    - part[n=98,lg=pal-Latn-x-transliterated]:
       - p: (.)[   2-3   ](.)[   7-9   ](cy .)[   4-6   ] z(՚yn)d * (՚)[   5-7   z]m(y)g
           (gr՚n)[    3-5   ] bwynd * cw՚gw(n) myhr y(zd k)[y pr](d՚)by(d) ՚br drxt՚n
           (* ՚wd) cw՚gw(n)[ m՚ẖ] pt՚(b)[yd] ՚b[r] (mrdwhm՚n) pd (g)[   1-3   ] ՚wd
@@ -4676,7 +4683,7 @@
             - 10-12           ]
             - lb[type=manuscript,n=5]
             - pd (.)[          20
-    - part[n=99]:
+    - part[n=99,lg=pal-Latn-x-transliterated]:
       - p: ՚[՚z]՚d(?) (՚)bywzy(nd) ՙyw pd byd ՚myx(syn)[d ՚](w)d rwšn (ՙyw) pd byd
           t՚bynd * cw՚gwn myhr frd՚b ՚wd m՚ẖ pt՚b (՚r)d՚w frwrdyn ՚wd ՚dwr * ky ՚bywzynd
           ՙyw pd byd t՚(by)nd * ՚wd (fr)h(y)[d(?) ՚my](xsy)n(d pd ՙy)[w ](b)[yd՚n
@@ -4824,7 +4831,7 @@
               - foreign[lg=deu-Latn]: Vielleicht bildeten die beiden ersten und die
                   folgenden, nicht lesbaren Zeichen ein zusammengeschriebenes Wort.
             - 16-20    ]
-    - part[n=100]:
+    - part[n=100,lg=pal-Latn-x-transliterated]:
       - p: '](š՚n ՚՚)zy(nd .)[   7-9   ] (k)[.] (z)[՚](d)g՚n pd wxybyẖ š(hrd՚)ry(f)[t
           pd] pnj prwrzyšn prwrz(y)d * (՚wd c)[   6-8   ] whyšt * tnb՚r hw(cy)hryft
           * g[ryw(?)] (xwmbwy)ft * ՚wd gy՚n (rwšn cy )[  4-8  ](f)rhyft * pd zm(yg
@@ -4889,16 +4896,17 @@
               - foreign[lg=deu-Latn]: Kaum
               - foreign[lg=pal-Latn-x-transliterated]: ՚՚zynd.
             - (?) 3-5 ]
-  - fragment[n=P9,lg=pal-Latn-x-transliterated]:
-    - part[n=101]:
-      - manuscript[n=101]:
-        - manuscript part[n=101]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: (.....)[      10-12      ] ՚wd d՚dys(ṯ՚)[n   5-7   ](k)y
-                ՚w pnj rwšn (՚)[w myhr ](՚)wd m՚ẖ ՚(c .)[   7-9   ](՚)wd ՙsṯ՚m (.)[   7-9   ](ՙ)yd
-                pnj ns՚w (՚)[w     4-6   ] m՚nh՚g * ky dy(n)[՚r ՚wd] * drxm * d՚ng
-                * ՚[wd   3-5   ] jnynd * ՚wd ՚wh[mynd(?) *]
+  - fragment[n=P9]:
+    - manuscript[n=101]:
+      - manuscript part[n=101]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
+    - part[n=101,lg=pal-Latn-x-transliterated]:
+      - p: (.....)[      10-12      ] ՚wd d՚dys(ṯ՚)[n   5-7   ](k)y ՚w pnj rwšn (՚)[w
+          myhr ](՚)wd m՚ẖ ՚(c .)[   7-9   ](՚)wd ՙsṯ՚m (.)[   7-9   ](ՙ)yd pnj ns՚w
+          (՚)[w     4-6   ] m՚nh՚g * ky dy(n)[՚r ՚wd] * drxm * d՚ng * ՚[wd   3-5   ]
+          jnynd * ՚wd ՚wh[mynd(?) *]
       - manuscript[n=M_6300]:
         - manuscript part[n=ai]:
           - p:
@@ -4934,7 +4942,7 @@
             - '* drxm * d՚ng * ՚[wd     3-5       ]   ai'
             - lb[type=manuscript,n=9]
             - jnynd * ՚wd ՚wh[   4-6  ]
-    - part[n=102]:
+    - part[n=102,lg=pal-Latn-x-transliterated]:
       - p: '* bycyš ՚՚(c)[՚r   5-7   ] pnj ns՚w u gy[՚n pnj rwšn(?)] ՚hynd * ՚wd ՚(.)[   5-7   ]
           ՚whmyd cy[      8-10      ] ՚wd m՚d my[      8-10      ] my(xd՚)r (m)r[d   7-9   ](xwm)bgr
           (m)[rd   7-9   ]'
@@ -4962,7 +4970,7 @@
             - my(xd՚)r (m)r[d     7-9     ]
             - lb[type=manuscript,n=16]
             - (xwm)bgr
-    - part[n=103]:
+    - part[n=103,lg=pal-Latn-x-transliterated]:
       - p:
         - n](g՚ryd)[   4-6   ] ky (՚c p)nj zng[՚n
         - note:
@@ -5022,7 +5030,7 @@
             - '[   3-5   ](gd ՚)w՚gwn ՚՚(z) ՚[wd]'
             - lb[type=manuscript,n=5]
             - '[՚wrjwg ](՚)c pnj r(wš)n dys'
-    - part[n=104]:
+    - part[n=104,lg=pal-Latn-x-transliterated]:
       - p: '](p)nj rwšn ՚w՚gw[n cw՚](gwn rw)d ՙy(w) wzrg * (u )[gy՚n՚](n) m(y)tk ky
           ՚ž rwd [   3-5   ] gw(y)r gnd՚g tcyd [   3-5   ](n) d՚m *'
       - manuscript[n=M_6300]:
@@ -5042,7 +5050,7 @@
             - '[   3-5   ] gw(y)r gnd՚g ai   tcyd'
             - lb[type=manuscript,n=10]
             - '[   3-5   ](n) d՚m **'
-    - part[n=105]:
+    - part[n=105,lg=pal-Latn-x-transliterated]:
       - p: '* u [   3-5   ](.) gy՚n՚n ՚w(՚)gwn [m՚nh՚g cw]՚gwn ՙšqync [      8-10      ](n
           h)[y](nd)g m(՚n)h՚g [      8-10      ՚](c) j՚m u ՚c [      7-9      ](d)rxt
           ryxt * [   7-9   d](rx)t (՚w pnj)'
@@ -5064,13 +5072,14 @@
             - '[   7-9   d](rx)t (՚w pnj)'
   - fragment[n=P10]:
     - head[lg=deu-Latn]: 10. Fragment
+    - manuscript[n=106]:
+      - manuscript part[n=106]:
+        - pb[type=recto]
+        - p:
+          - lb[type=manuscript]
     - part[n=106]:
-      - manuscript[n=106,lg=pal-Latn-x-transliterated]:
-        - manuscript part[n=106]:
-          - pb[type=recto]
-          - p:
-            - lb[type=manuscript,n=]: (..)[           ] f(...)[           ] d՚lwg(՚)[n           ]
-                ՚d(m)[՚synd(?)           ](.)[           ](.)[
+      - p[lg=pal-Latn-x-transliterated]: (..)[           ] f(...)[           ] d՚lwg(՚)[n           ]
+          ՚d(m)[՚synd(?)           ](.)[           ](.)[
       - manuscript[n=Otani_6205,lg=pal-Latn-x-transliterated]:
         - manuscript part[n=aj]:
           - p:
@@ -5113,15 +5122,15 @@
             - '[      ](t)'
   - fragment[n=S1]:
     - head[lg=deu-Latn]: Soghdische Texte
+    - manuscript[n=So_18248]:
+      - manuscript part[n=ba]:
     - part[n=108,lg=sog-Latn]:
-      - manuscript[n=So_18248]:
-        - manuscript part[n=ba]:
-          - p:
-            - pb[type=recto,n=IIr]
-            - lb[type=manuscript,n=1]
-            - ZY cnn pw prm'nw δβ'yš ZY ''z-'rm 'P(Z)[Y]
-            - lb[type=manuscript,n=2]
-            - cnn nw wrn'y p'z-n pyδ'r kw tmw ytnty
+      - p:
+        - pb[type=recto,n=IIr]
+        - lb[type=manuscript,n=1]
+        - ZY cnn pw prm'nw δβ'yš ZY ''z-'rm 'P(Z)[Y]
+        - lb[type=manuscript,n=2]
+        - cnn nw wrn'y p'z-n pyδ'r kw tmw ytnty
     - part[n=109,lg=sog-Latn]:
       - p:
         - lb[type=manuscript,n=3]
@@ -5282,15 +5291,15 @@
         - lb[type=manuscript,n=25]
         - "['prtmcyk](w)(?) ZK δynδ'r βwt rtms ZK"
   - fragment[n=2]:
+    - manuscript[n=So_10650(2)_+_So_18131]:
+      - manuscript part[n=bb]:
     - part[n=127,lg=sog-Latn]:
-      - manuscript[n=So_10650(2)_+_So_18131]:
-        - manuscript part[n=bb]:
-          - p:
-            - '|IPr'
-            - lb[type=manuscript,n=1]
-            - "[  26-28  δ](r)wty'(k)[h]"
-            - lb[type=manuscript,n=2]
-            - (ZKw ptr'm)[ 5-7 ] δβr'ty
+      - p:
+        - '|IPr'
+        - lb[type=manuscript,n=1]
+        - "[  26-28  δ](r)wty'(k)[h]"
+        - lb[type=manuscript,n=2]
+        - (ZKw ptr'm)[ 5-7 ] δβr'ty
     - part[n=128,lg=sog-Latn]:
       - p:
         - rty prw 'z-prtw
@@ -5329,26 +5338,26 @@
         - γwncyh CWRy-h ZKwy tnp'ry c'n'kw tyst
         - lb[type=manuscript,n=7]
         - rty ZKw 'β(t)' pty'r ZKw δrt'ych ZY ZKw
-  - fragment[n=3,lg=sog-Latn]:
-    - part[n=132]:
-      - manuscript[n=M_4906]:
-        - manuscript part[n=bc]:
-          - p:
-            - pb[type=recto,n=1]
-            - lb[type=manuscript,n=1]
-            - '[     28-30     ](...h)'
-            - note:
-              - foreign[lg=deu-Latn]: Nur die Grundlinien von Buchstaben sind erhalten,
-                  die dem
-              - foreign[lg=sog-Latn]: ']wyγyh'
-              - foreign[lg=deu-Latn]: am Ende der dritten Zeile sehr ähnlich sind.
-            - lb[type=manuscript,n=2]
-            - "[     20-22     ](...)'y 'txw"
-            - lb[type=manuscript,n=3]
-            - '[     24-26     ]wyxyh*'
-            - lb[type=manuscript,n=4]
-            - '[     25-27     ](..)[..]py'
-    - part[n=133]:
+  - fragment[n=3]:
+    - manuscript[n=M_4906]:
+      - manuscript part[n=bc]:
+    - part[n=132,lg=sog-Latn]:
+      - p:
+        - pb[type=recto,n=1]
+        - lb[type=manuscript,n=1]
+        - '[     28-30     ](...h)'
+        - note:
+          - foreign[lg=deu-Latn]: Nur die Grundlinien von Buchstaben sind erhalten,
+              die dem
+          - foreign[lg=sog-Latn]: ']wyγyh'
+          - foreign[lg=deu-Latn]: am Ende der dritten Zeile sehr ähnlich sind.
+        - lb[type=manuscript,n=2]
+        - "[     20-22     ](...)'y 'txw"
+        - lb[type=manuscript,n=3]
+        - '[     24-26     ]wyxyh*'
+        - lb[type=manuscript,n=4]
+        - '[     25-27     ](..)[..]py'
+    - part[n=133,lg=sog-Latn]:
       - p:
         - pb[type=recto,n=2]
         - lb[type=manuscript,n=1]
@@ -5360,19 +5369,19 @@
         - lb[type=manuscript,n=4]
         - (.)[..](..)[     23-25     ]
   - fragment[n=4]:
+    - manuscript[n=So_10238]:
+      - manuscript part[n=bd]:
     - part[n=134]:
-      - manuscript[n=So_10238]:
-        - manuscript part[n=bd]:
-          - p:
-            - foreign[lg=sog-Latn]:
-              - pb[type=recto,n=1]
-              - lb[type=manuscript,n=1]
-              - "[     '](')tr s[     ]"
-              - lb[type=manuscript,n=2]
-              - "[     tn]p'r cntr ZKw rw'n[     ]"
-              - lb[type=manuscript,n=3]
-              - "[      ](β)wδ'nty δ(')rt(?) [     ]"
-            - foreign[lg=deu-Latn]: (Lücke)
+      - p:
+        - foreign[lg=sog-Latn]:
+          - pb[type=recto,n=1]
+          - lb[type=manuscript,n=1]
+          - "[     '](')tr s[     ]"
+          - lb[type=manuscript,n=2]
+          - "[     tn]p'r cntr ZKw rw'n[     ]"
+          - lb[type=manuscript,n=3]
+          - "[      ](β)wδ'nty δ(')rt(?) [     ]"
+        - foreign[lg=deu-Latn]: (Lücke)
     - part[n=135,lg=sog-Latn]:
       - p:
         - pb[type=recto,n=2]
@@ -5391,31 +5400,31 @@
         - ZY (p)[     ]
         - lb[type=manuscript,n=3]
         - "[        'r](t)'(w) βrw'rt(y)[     ]"
-  - fragment[n=5,lg=sog-Latn]:
-    - part[n=136]:
-      - manuscript[n=So_13511]:
-        - manuscript part[n=be]:
-          - p:
-            - pb[type=recto,n=1]
-            - lb[type=manuscript,n=1]
-            - "[     ](.) 'z-w'nt'k [     ]"
-            - lb[type=manuscript,n=2]
-            - "[     ]sδβw ptšmyrt'[k      25-27      ]"
-            - lb[type=manuscript,n=3]
-            - "[     'rt'](w) βrw'rty xcy Z(Y)[      ]"
-            - lb[type=manuscript,n=4]
-            - "[     ] rtxw ''ph [     ]"
-            - lb[type=manuscript,n=5]
-            - "[  r]txw xwr ZY m'xβγy [     ]"
-            - lb[type=manuscript,n=6]
-            - '[     ](.)γtw'
-            - note:
-              - foreign[lg=deu-Latn]: Oder
-              - foreign[lg=sog-Latn]: '](.)xtw.'
-            - wyspny myδ pr(m)[     ]
-            - lb[type=manuscript,n=7]
-            - "[     ](t) cnn pncw mr[δ'sp'nty     ]"
-    - part[n=137]:
+  - fragment[n=5]:
+    - manuscript[n=So_13511]:
+      - manuscript part[n=be]:
+    - part[n=136,lg=sog-Latn]:
+      - p:
+        - pb[type=recto,n=1]
+        - lb[type=manuscript,n=1]
+        - "[     ](.) 'z-w'nt'k [     ]"
+        - lb[type=manuscript,n=2]
+        - "[     ]sδβw ptšmyrt'[k      25-27      ]"
+        - lb[type=manuscript,n=3]
+        - "[     'rt'](w) βrw'rty xcy Z(Y)[      ]"
+        - lb[type=manuscript,n=4]
+        - "[     ] rtxw ''ph [     ]"
+        - lb[type=manuscript,n=5]
+        - "[  r]txw xwr ZY m'xβγy [     ]"
+        - lb[type=manuscript,n=6]
+        - '[     ](.)γtw'
+        - note:
+          - foreign[lg=deu-Latn]: Oder
+          - foreign[lg=sog-Latn]: '](.)xtw.'
+        - wyspny myδ pr(m)[     ]
+        - lb[type=manuscript,n=7]
+        - "[     ](t) cnn pncw mr[δ'sp'nty     ]"
+    - part[n=137,lg=sog-Latn]:
       - p:
         - pb[type=recto,n=2]
         - lb[type=manuscript,n=1]
@@ -5433,17 +5442,17 @@
         - lb[type=manuscript,n=7]
         - "[     ] δβ'yš'nt rtšn [     ]"
   - fragment[n=6]:
+    - manuscript[n=So_14041]:
+      - manuscript part[n=bf]:
     - part[n=138]:
-      - manuscript[n=So_14041]:
-        - manuscript part[n=bf]:
-          - p:
-            - foreign[lg=sog-Latn]:
-              - pb[type=recto,n=r]
-              - lb[type=manuscript,n=1]
-              - mγwn 'βc'npδ 'nγwn '(s)[ty     8-10     ]
-              - lb[type=manuscript,n=2]
-              - "[   3-5   ] prw tnp'(r δ)[      26-28     ]"
-            - foreign[lg=deu-Latn]: (Lücke)
+      - p:
+        - foreign[lg=sog-Latn]:
+          - pb[type=recto,n=r]
+          - lb[type=manuscript,n=1]
+          - mγwn 'βc'npδ 'nγwn '(s)[ty     8-10     ]
+          - lb[type=manuscript,n=2]
+          - "[   3-5   ] prw tnp'(r δ)[      26-28     ]"
+        - foreign[lg=deu-Latn]: (Lücke)
     - part[n=139,lg=sog-Latn]:
       - p:
         - pb[type=verso,n=v]
@@ -5453,35 +5462,35 @@
         - '[     17-19     ](w) ptšmyrt(y)[   3-5   ]'
   - fragment[n=O1]:
     - head[lg=deu-Latn]: Mitteliranische Texte verwandten Inhalts
+    - manuscript[n=S_11]:
+      - manuscript part[n=ca]:
     - part[n=140]:
-      - manuscript[n=S_11]:
-        - manuscript part[n=ca]:
-          - pb[type=recto,n=r?]
-          - p:
-            - lb[type=manuscript,n=1]: '[     28-30     ]r'
-            - lb[type=manuscript,n=2]: '[     28-30     ](g)'
-            - lb[type=manuscript,n=3]: '[     28-30     ]'
-            - lb[type=manuscript,n=4]: '[     27-29     ](w)r'
-            - lb[type=manuscript,n=5]: '[     28-30     ](..)(?)'
-            - lb[type=manuscript,n=6]: '[     27-29     ](s)'
-            - lb[type=manuscript,n=7]: '[     25-27     dr](x)t(?)'
-            - lb[type=manuscript,n=8]: '[     28-30     ](s)(?)'
-            - lb[type=manuscript,n=9]: '[     26-28     ]u pd'
-            - lb[type=manuscript,n=10]: '[     24-26     ] pdyng'
-            - lb[type=manuscript,n=11]: '[     26-28     ]՚wš'
-            - lb[type=manuscript,n=12]: '[     23-25     ](.c drxt)'
-            - lb[type=manuscript,n=13]
-            - '[     23-25     ](.)hn'
-            - note:
-              - foreign[lg=deu-Latn]: Kaum
-              - '](՚)n.'
-            - u pd
-            - lb[type=manuscript,n=14]: '[     21-23     ՚](w)d d՚nyd'
-            - lb[type=manuscript,n=15]: '[     22-24     ]hyd u xwd(?)'
-            - lb[type=manuscript,n=16]: '[     20-22     ](.) šhr՚n (՚)wd'
-            - lb[type=manuscript,n=17]: '[     18-20     ]ՙy prhyd pdyš'
-            - lb[type=manuscript,n=18]: '[     16-18     ՚]dwr w՚d u ՚rd՚w'
-            - lb[type=manuscript,n=19]: '[pr՚whr     7-9'
+      - pb[type=recto,n=r?]
+      - p:
+        - lb[type=manuscript,n=1]: '[     28-30     ]r'
+        - lb[type=manuscript,n=2]: '[     28-30     ](g)'
+        - lb[type=manuscript,n=3]: '[     28-30     ]'
+        - lb[type=manuscript,n=4]: '[     27-29     ](w)r'
+        - lb[type=manuscript,n=5]: '[     28-30     ](..)(?)'
+        - lb[type=manuscript,n=6]: '[     27-29     ](s)'
+        - lb[type=manuscript,n=7]: '[     25-27     dr](x)t(?)'
+        - lb[type=manuscript,n=8]: '[     28-30     ](s)(?)'
+        - lb[type=manuscript,n=9]: '[     26-28     ]u pd'
+        - lb[type=manuscript,n=10]: '[     24-26     ] pdyng'
+        - lb[type=manuscript,n=11]: '[     26-28     ]՚wš'
+        - lb[type=manuscript,n=12]: '[     23-25     ](.c drxt)'
+        - lb[type=manuscript,n=13]
+        - '[     23-25     ](.)hn'
+        - note:
+          - foreign[lg=deu-Latn]: Kaum
+          - '](՚)n.'
+        - u pd
+        - lb[type=manuscript,n=14]: '[     21-23     ՚](w)d d՚nyd'
+        - lb[type=manuscript,n=15]: '[     22-24     ]hyd u xwd(?)'
+        - lb[type=manuscript,n=16]: '[     20-22     ](.) šhr՚n (՚)wd'
+        - lb[type=manuscript,n=17]: '[     18-20     ]ՙy prhyd pdyš'
+        - lb[type=manuscript,n=18]: '[     16-18     ՚]dwr w՚d u ՚rd՚w'
+        - lb[type=manuscript,n=19]: '[pr՚whr     7-9'
     - part[n=141]:
       - p:
         - p]d ՚dwr ՚bystn bwy(d)
@@ -5554,31 +5563,31 @@
         - 19-21      ]
         - lb[type=manuscript,n=22]: ՚c dhyn ՙyg ՚[      19-21      ]
   - fragment[n=O2]:
+    - manuscript[n=M_206]:
+      - manuscript part[n=cb]:
     - part[n=143]:
-      - manuscript[n=M_206]:
-        - manuscript part[n=cb]:
-          - p:
-            - foreign[lg=pal-Latn-x-transliterated]:
-              - pb[type=recto,n=r]
-              - lb[type=manuscript,n=1]
-              - z(՚)[     15-17     ]
-              - lb[type=manuscript,n=2]
-              - šhr՚n (q)[     11-13     ]
-              - lb[type=manuscript,n=3]
-              - ՚w hrw cyš * kw wxd w՚d
-              - note:
-                - foreign[lg=deu-Latn]: Über dem dritten Buchstaben Papierverschmutzung,
-                    daher nicht
-                - foreign[lg=pal-Latn-x-transliterated]: w՚r
-                - foreign[lg=deu-Latn]: '"Regen".'
-              - cy
-              - lb[type=manuscript,n=4]
-              - ՚st ՚wš bwn u x՚ns՚r
-              - lb[type=manuscript,n=5]
-              - kw ՙštyd cy pd jm՚n jm՚n
-              - lb[type=manuscript,n=6]
-              - ՚syd ՚wd ՚gs bwyd * ՚c
-            - foreign[lg=deu-Latn]: (Lücke)
+      - p:
+        - foreign[lg=pal-Latn-x-transliterated]:
+          - pb[type=recto,n=r]
+          - lb[type=manuscript,n=1]
+          - z(՚)[     15-17     ]
+          - lb[type=manuscript,n=2]
+          - šhr՚n (q)[     11-13     ]
+          - lb[type=manuscript,n=3]
+          - ՚w hrw cyš * kw wxd w՚d
+          - note:
+            - foreign[lg=deu-Latn]: Über dem dritten Buchstaben Papierverschmutzung,
+                daher nicht
+            - foreign[lg=pal-Latn-x-transliterated]: w՚r
+            - foreign[lg=deu-Latn]: '"Regen".'
+          - cy
+          - lb[type=manuscript,n=4]
+          - ՚st ՚wš bwn u x՚ns՚r
+          - lb[type=manuscript,n=5]
+          - kw ՙštyd cy pd jm՚n jm՚n
+          - lb[type=manuscript,n=6]
+          - ՚syd ՚wd ՚gs bwyd * ՚c
+        - foreign[lg=deu-Latn]: (Lücke)
     - part[n=144,lg=pal-Latn-x-transliterated]:
       - p:
         - pb[type=verso,n=v]
@@ -5600,65 +5609,65 @@
         - bywr՚n wy՚g՚n ՚wd byd kd
         - lb[type=manuscript,n=6]
         - wzwynd ՚w kw šwynd **   ** ՚g՚m
-  - fragment[n=O3,lg=pal-Latn-x-transliterated]:
-    - part[n=145]:
-      - manuscript[n=London_Kao._0103/1906]:
-        - manuscript part[n=cc]:
-          - p:
-            - /2.S.
-            - lb[type=manuscript,n=1]
-            - (c)y ՚w tw pdmw(x)t * (.)[     ]
-            - lb[type=manuscript,n=2]
-            - (՚c)
-            - note:
-              - foreign[lg=deu-Latn]: Weniger wahrscheinlich
-              - foreign[lg=pal-Latn-x-transliterated]: (š՚d).
-            - (՚whrmyzd) bg z(՚)[wr ](kd .nd.)[     ]
-            - lb[type=manuscript,n=3]
-            - pd t(՚)r (m)[dy՚](n) * r(z)mg՚ẖ ՚wyšt՚[d     ]
-            - lb[type=manuscript,n=4]
-            - (՚)wd fr(sd) * ՚whr(my)zd bg * ՚w (t.)[     ]
-            - lb[type=manuscript,n=5]
-            - (pnj ՚šnwhr bwd ...)[   ]
-            - lb[type=manuscript,n=6]
-            - ՚՚dyn(g) bwd * (՚)rg՚w(՚n .)[     ]
+  - fragment[n=O3]:
+    - manuscript[n=London_Kao._0103/1906]:
+      - manuscript part[n=cc]:
+    - part[n=145,lg=pal-Latn-x-transliterated]:
+      - p:
+        - /2.S.
+        - lb[type=manuscript,n=1]
+        - (c)y ՚w tw pdmw(x)t * (.)[     ]
+        - lb[type=manuscript,n=2]
+        - (՚c)
+        - note:
+          - foreign[lg=deu-Latn]: Weniger wahrscheinlich
+          - foreign[lg=pal-Latn-x-transliterated]: (š՚d).
+        - (՚whrmyzd) bg z(՚)[wr ](kd .nd.)[     ]
+        - lb[type=manuscript,n=3]
+        - pd t(՚)r (m)[dy՚](n) * r(z)mg՚ẖ ՚wyšt՚[d     ]
+        - lb[type=manuscript,n=4]
+        - (՚)wd fr(sd) * ՚whr(my)zd bg * ՚w (t.)[     ]
+        - lb[type=manuscript,n=5]
+        - (pnj ՚šnwhr bwd ...)[   ]
+        - lb[type=manuscript,n=6]
+        - ՚՚dyn(g) bwd * (՚)rg՚w(՚n .)[     ]
   - fragment[n=O4]:
+    - manuscript[n=M_8170]:
+      - manuscript part[n=cd]:
     - part[n=146,lg=sog-Latn]:
-      - manuscript[n=M_8170]:
-        - manuscript part[n=cd]:
-          - p:
-            - pb[type=verso,n=v]
-            - lb[type=manuscript,n=1]
-            - '[     ](...)'
-            - lb[type=manuscript,n=2]
-            - "[     6-8     ](tr)δ'rt"
-            - note:
-              - foreign[lg=deu-Latn]: Kaum
-              - foreign[lg=sog-Latn]: "](tr) δ'(rt)."
-            - '*'
-            - lb[type=manuscript,n=3]
-            - "[     6-8     ](.) pyšwz'[y]"
-            - lb[type=manuscript,n=4]
-            - "[     4-6     ](. ')rty wy(') x'(xt)"
-            - lb[type=manuscript,n=5]
-            - "[     4-6     ]'ty w(ny' wyx)"
-            - lb[type=manuscript,n=6]
-            - (zwyδ)m'(?) δ'rt * 'rty p[r]
-            - lb[type=manuscript,n=7]
-            - w'tδ'rtyy tmb'r xw(t)['w]
-            - note:
-              - foreign[lg=deu-Latn]: Oder
-              - foreign[lg=sog-Latn]: xw(t)[w]
-              - foreign[lg=deu-Latn]: '"Herr",'
-              - foreign[lg=sog-Latn]: xw(t)[y]
-              - foreign[lg=deu-Latn]: '"selbst"? Kaum'
-              - foreign[lg=sog-Latn]: xw(δ)['w],
-              - foreign[lg=deu-Latn]: das untere Ende des dritten Buchstabens ist
-                  deutlich verdickt.
-            - lb[type=manuscript,n=8]
-            - "'skwtyy 'rtšn ('y)'m(?)"
-            - lb[type=manuscript,n=9]
-            - δβrtyy *      *
+      - p:
+        - pb[type=verso,n=v]
+        - lb[type=manuscript,n=1]
+        - '[     ](...)'
+        - lb[type=manuscript,n=2]
+        - "[     6-8     ](tr)δ'rt"
+        - note:
+          - foreign[lg=deu-Latn]: Kaum
+          - foreign[lg=sog-Latn]: "](tr) δ'(rt)."
+        - '*'
+        - lb[type=manuscript,n=3]
+        - "[     6-8     ](.) pyšwz'[y]"
+        - lb[type=manuscript,n=4]
+        - "[     4-6     ](. ')rty wy(') x'(xt)"
+        - lb[type=manuscript,n=5]
+        - "[     4-6     ]'ty w(ny' wyx)"
+        - lb[type=manuscript,n=6]
+        - (zwyδ)m'(?) δ'rt * 'rty p[r]
+        - lb[type=manuscript,n=7]
+        - w'tδ'rtyy tmb'r xw(t)['w]
+        - note:
+          - foreign[lg=deu-Latn]: Oder
+          - foreign[lg=sog-Latn]: xw(t)[w]
+          - foreign[lg=deu-Latn]: '"Herr",'
+          - foreign[lg=sog-Latn]: xw(t)[y]
+          - foreign[lg=deu-Latn]: '"selbst"? Kaum'
+          - foreign[lg=sog-Latn]: xw(δ)['w],
+          - foreign[lg=deu-Latn]: das untere Ende des dritten Buchstabens ist deutlich
+              verdickt.
+        - lb[type=manuscript,n=8]
+        - "'skwtyy 'rtšn ('y)'m(?)"
+        - lb[type=manuscript,n=9]
+        - δβrtyy *      *
     - part[n=147]:
       - p:
         - foreign[lg=sog-Latn]:
@@ -5739,23 +5748,23 @@
         - lb[type=manuscript,n=13]
         - "[     4-6     ](.)ty z'w[r ](f.)[.]"
   - fragment[n=O5]:
+    - manuscript[n=So_14410-14411]:
+      - manuscript part[n=ce]:
     - part[n=150,lg=sog-Latn]:
-      - manuscript[n=So_14410-14411]:
-        - manuscript part[n=ce]:
-          - p:
-            - pb[type=recto,n=r]
-            - lb[type=manuscript,n=1]
-            - ZY MN wγš' 'kty * ky-' xw XII δβrt' * ZY
-            - lb[type=manuscript,n=2]
-            - XII βγ' 'skw'nt * p'šy pw px'nš
-            - note:
-              - foreign[lg=deu-Latn]: Kaum
-              - foreign[lg=sog-Latn]: px'rš.
-            - '* kw'
-            - lb[type=manuscript,n=3]
-            - wy-' mrδ'spnty r'δ ny-štw * ZY ptsny βwt
-            - lb[type=manuscript,n=4]
-            - m'xw m'xy *
+      - p:
+        - pb[type=recto,n=r]
+        - lb[type=manuscript,n=1]
+        - ZY MN wγš' 'kty * ky-' xw XII δβrt' * ZY
+        - lb[type=manuscript,n=2]
+        - XII βγ' 'skw'nt * p'šy pw px'nš
+        - note:
+          - foreign[lg=deu-Latn]: Kaum
+          - foreign[lg=sog-Latn]: px'rš.
+        - '* kw'
+        - lb[type=manuscript,n=3]
+        - wy-' mrδ'spnty r'δ ny-štw * ZY ptsny βwt
+        - lb[type=manuscript,n=4]
+        - m'xw m'xy *
     - part[n=151,lg=sog-Latn]:
       - p:
         - ms nm'c βr'm * ZKn wyspšyr
@@ -6002,24 +6011,23 @@
         - note[lg=deu-Latn]: Das Ende der Zeile ist von Runenzeichen gefüllt, die
             noch nicht gelesen werden konnten. Vgl. Waldschmidt/Lentz 1926, S. 93.
   - fragment[n=OT]:
+    - manuscript[n=U_132c,lg=deu-Latn]:
+      - manuscript part[n=(T_I)]:
+        - p: (Peter Zieme)
     - part[n=1]:
-      - manuscript[n=U_132c]:
-        - manuscript part[n=(T_I)]:
-          - p:
-            - foreign[lg=deu-Latn]: (Peter Zieme)
-            - foreign[lg=pal-Latn-x-manichean-middle-persian-transcriptional]: '...
-                sütdän; ymä [suvuγ] sorγun tartar [...]'
-            - pb[type=recto,n=r]
-            - lb[type=manuscript,n=01,lg=62461-Latn-x-old-turkic-manichaean-transliterated]
-            - '[       ]t'
-            - note[lg=deu-Latn]: Nur der untere Teil des Buchstaben ist erhalten.
-                Da ich auch den folgenden Buchstaben nicht lesen kann, wage ich auch
-                keine Ergänzung.
-            - '[            ]'
-            - lb[type=manuscript,n=02,lg=62461-Latn-x-old-turkic-manichaean-transliterated]: swytδ՚n
-                .. ym՚ [         ]
-            - lb[type=manuscript,n=03,lg=62461-Latn-x-old-turkic-manichaean-transliterated]: swwrγwn
-                t՚rt՚r [         ]
+      - p:
+        - foreign[lg=pal-Latn-x-manichean-middle-persian-transcriptional]: '... sütdän;
+            ymä [suvuγ] sorγun tartar [...]'
+        - pb[type=recto,n=r]
+        - lb[type=manuscript,n=01,lg=62461-Latn-x-old-turkic-manichaean-transliterated]
+        - '[       ]t'
+        - note[lg=deu-Latn]: Nur der untere Teil des Buchstaben ist erhalten. Da ich
+            auch den folgenden Buchstaben nicht lesen kann, wage ich auch keine Ergänzung.
+        - '[            ]'
+        - lb[type=manuscript,n=02,lg=62461-Latn-x-old-turkic-manichaean-transliterated]: swytδ՚n
+            .. ym՚ [         ]
+        - lb[type=manuscript,n=03,lg=62461-Latn-x-old-turkic-manichaean-transliterated]: swwrγwn
+            t՚rt՚r [         ]
     - part[n=2]:
       - p:
         - foreign[lg=pal-Latn-x-manichean-middle-persian-transcriptional]: äkinti
