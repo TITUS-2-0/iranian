@@ -34,8 +34,10 @@
 			<sourceDesc>
 				<bibl xml:id="sindb">
 					<author>
-						<name>Ātaš, Aḥmad</name>
-					</author>. <date>1362</date>. <title level="m">Sindbad-Nāme</title>. <pubPlace>Tehrān</pubPlace>.</bibl>
+						<name>bin Alī Ẓahīrī Samarqandī, Aḥmad</name>
+					</author>. <date>1362</date>. <title level="m">Sindbad-Nāme</title>. Edited by <editor>
+						<name>Aḥmad Ātaš</name>
+					</editor>. <pubPlace>Tehrān</pubPlace>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
