@@ -42,7 +42,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="pes-Arab-x-persian">Western Farsi</language>
+				<language ident="pes-Arab-x-persian" ana="primary">Western Farsi</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

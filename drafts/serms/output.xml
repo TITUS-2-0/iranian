@@ -39,13 +39,13 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xmn-Latn-x-tld">Manichaean Middle Persian</language>
-				<language ident="deu-Latn">German</language>
-				<language ident="pal-Latn-x-tld">Pahlavi</language>
-				<language ident="pal-Latn-x-txl">Pahlavi</language>
-				<language ident="sog-Latn">Sogdian</language>
-				<language ident="xmn-Latn-x-txl">Manichaean Middle Persian</language>
-				<language ident="oui-Latn-x-manich-tld">Old Turkic</language>
+				<language ident="xmn-Latn-x-tld" ana="primary">Manichaean Middle Persian</language>
+				<language ident="pal-Latn-x-tld" ana="secondary">Pahlavi</language>
+				<language ident="pal-Latn-x-txl" ana="secondary">Pahlavi</language>
+				<language ident="sog-Latn" ana="secondary">Sogdian</language>
+				<language ident="xmn-Latn-x-txl" ana="secondary">Manichaean Middle Persian</language>
+				<language ident="oui-Latn-x-manich-tld" ana="secondary">Old Turkic</language>
+				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
