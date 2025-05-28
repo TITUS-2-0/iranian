@@ -25,7 +25,7 @@
 				<date when="2025-02-27">2025-02-27</date>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of The Manichaean "Sermon of The Soul" (unreleased). 2025-02-27. By: Jost Gippert, Florian Matter, Werner Sundermann, Peter Zieme. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					<p>Preferred citation: <note type="citation">Digital version of The Manichaean "Sermon of The Soul" (draft version). 2025-02-27. By: Jost Gippert, Florian Matter, Werner Sundermann, Peter Zieme. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
 					</p>
 				</availability>
 				<idno type="version">unreleased</idno>
@@ -39,13 +39,13 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xmn-Latn-x-tld">Manichaean Middle Persian</language>
-				<language ident="deu-Latn">German</language>
-				<language ident="pal-Latn-x-tld">Pahlavi</language>
-				<language ident="pal-Latn-x-txl">Pahlavi</language>
-				<language ident="sog-Latn">Sogdian</language>
-				<language ident="xmn-Latn-x-txl">Manichaean Middle Persian</language>
-				<language ident="oui-Latn-x-manich-tld">Old Turkic</language>
+				<language ident="xmn-Latn-x-tld" ana="primary">Manichaean Middle Persian</language>
+				<language ident="pal-Latn-x-tld" ana="secondary">Pahlavi</language>
+				<language ident="pal-Latn-x-txl" ana="secondary">Pahlavi</language>
+				<language ident="sog-Latn" ana="secondary">Sogdian</language>
+				<language ident="xmn-Latn-x-txl" ana="secondary">Manichaean Middle Persian</language>
+				<language ident="oui-Latn-x-manich-tld" ana="secondary">Old Turkic</language>
+				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
