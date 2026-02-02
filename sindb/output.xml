@@ -26,10 +26,10 @@
         <date when="2026-02-02">2026-02-02</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Sindbad-Nāme by Aḥmad bin Alī Ẓahīrī Samarqandī (v0.0.1.draft). 2026-02-02. By: Tamaz Abašidze, Jost Gippert, Florian Matter, Xatuna Todua. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Sindbad-Nāme by Aḥmad bin Alī Ẓahīrī Samarqandī (v0.1.0). 2026-02-02. By: Tamaz Abašidze, Jost Gippert, Florian Matter, Xatuna Todua. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">0.0.1.draft</idno>
+        <idno type="version">0.1.0</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="sindb">
