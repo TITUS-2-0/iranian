@@ -1,16 +1,16 @@
-# Dataset 'Sindbad-Name'
+# Dataset 'Sindbad-Nāme'
 
 ![Static Badge](https://img.shields.io/badge/TEI_validation-passing-green)
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etca/iran/niran/npers/sindbad/sindb.htm).
 
-* URL: https://github.com/TITUS-2-0/iranian/tree/main/drafts/sindb/
+* URL: https://github.com/TITUS-2-0/iranian/tree/main/drafts/sindb
 * version: unreleased
-* date: 2025-04-19
+* date: 2026-02-02
 
 ## Citation
 ```text
-Digital version of Sindbad-Name by Aḥmad bin Alī Ẓahīrī Samarqandī (draft version). By: Tamaz Abašidze, Jost Gippert, Florian Matter, Xatuna Todua. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/iranian/tree/main/drafts/sindb/, visited on <insert date>)
+Digital version of Sindbad-Nāme by Aḥmad bin Alī Ẓahīrī Samarqandī (draft version). By: Tamaz Abašidze, Jost Gippert, Florian Matter, Xatuna Todua. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/iranian/tree/main/drafts/sindb, visited on <insert date>)
 ```
 
 ## TEI encoding
